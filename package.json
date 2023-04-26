@@ -7,8 +7,9 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "jacob rotich",
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/Jacob1-debug/freecodecamp_backend_exercise.git"
 	}
 }
